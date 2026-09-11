@@ -1,0 +1,7 @@
+interface:
+  display_name: "Web Project Alignment"
+  short_description: "Identifica e alinha requisitos de um projeto web."
+  default_prompt: "Use $aligning-web-projects para analisar o briefing existente antes de iniciar as perguntas e alinhar os requisitos do projeto web."
+
+policy:
+  allow_implicit_invocation: true
